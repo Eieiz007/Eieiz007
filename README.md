@@ -36,6 +36,4 @@ Studying inferential statistics and models in machine learning. Skills currently
                     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" />
                     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" />
                     </picture>
-                    </a></p>### Badges<b>My GitHub Stats</b><a
-                      href="http://www.github.com/Eieiz007"><img
-                  src="https://github-readme-streak-stats.herokuapp.com/?user=Eieiz007&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a><a href="https://github.com/Eieiz007" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eieiz007&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=facc15&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+                    </a></p>### Badges<a href="https://github.com/Eieiz007" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eieiz007&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=facc15&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
