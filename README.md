@@ -8,6 +8,7 @@ Studying inferential statistics and models in machine learning. Skills currently
 
 * 🌍  I'm based in Rung sit , Thailand
 * ✉️  You can contact me at [eieizdy007@gmail.com](mailto:eieizdy007@gmail.com)
+* Linkedin : https://www.linkedin.com/in/nantakorn-nacamanurak-743a59308/
 
 ### Skills
 
