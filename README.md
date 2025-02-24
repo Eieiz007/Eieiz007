@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 data science and innovation student
 -----------------------------------
 
-Studying inferential statistics and models in machine learning. Skills currently available: R, Python, and basic machine learning.
+Machine learning about time seires and classification problem.
 
 * 🌍  I'm based in Rung sit , Thailand
 * ✉️  You can contact me at [eieizdy007@gmail.com](mailto:eieizdy007@gmail.com)
