@@ -6,7 +6,7 @@ data science and innovation student
 
 Machine learning about time seires and classification problem.
 
-* 🌍  I'm based in Rung sit , Thailand
+* 🌍  I'm based in Rangsit , Thailand
 * ✉️  You can contact me at [eieizdy007@gmail.com](mailto:eieizdy007@gmail.com)
 * Linkedin : https://www.linkedin.com/in/nantakorn-nacamanurak-743a59308/
 
